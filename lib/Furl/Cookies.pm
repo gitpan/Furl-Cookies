@@ -2,9 +2,9 @@ package Furl::Cookies;
 use strict;
 use warnings;
 use Time::Local;
-use Data::Dumper::Concise;
+#use Data::Dumper::Concise;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 my $month = {
 	Jan =>  1,Feb =>  2,Mar =>  3,Apr =>  4,May =>  5,Jun =>  6,
